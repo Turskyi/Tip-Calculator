@@ -89,7 +89,6 @@ fastlane/test_output
 
 iOSInjectionProject/
 
-
 *.xcuserstate
 
 *Podfile.lock
